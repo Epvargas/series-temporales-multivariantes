@@ -1,4 +1,4 @@
-#series temporales multivariantes en R y Python
+## series temporales multivariantes en R y Python
 
 El mundo del análisis de Series Temporales o Series de Tiempo cada vez va tomando más y más fuerza. Y es que muchas veces nos encontramos con aplicaciones prácticas que dependen del tiempo de alguna manera, por ejemplo, cuando estamos analizando los datos del reciente virus COVID19 que está afectando a todo el planeta, tendremos datos diarios de casos activos, casos nuevos detectados, o incluso muertes en cada uno de esos días. Estos datos son importantísimos a la hora de pronosticar de cara al futuro qué va a pasar, si van a subir o van a bajar esos casos. 
 
